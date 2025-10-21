@@ -1,10 +1,13 @@
-#huisdier = "George"
-#print(huisdier)
+naamEerstHuisdier = "George"
+naam_tweede_huisdier = 'Shiro'
 
+leeftijd = 6
 
-naam = input("Wat is jouw naam? ")
-hobby = input("Wat is jouw hobby? ")
-# schrijf een zin op het scherm
-print(f"{naam} doet graag {hobby}")
+lengte_m = 1.72
 
+heeft_huisdier = False
+
+naam_huisdier = input('Naam huisdier: ')
+
+print(f'"{naam_huisdier}" {{loopt}} graag \'s nachts rond.')
 

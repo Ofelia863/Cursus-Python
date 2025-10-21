@@ -1,1 +1,1 @@
-# 
+# Maak een lijst en steek hier 5 getallen in. Overloop deze lijst en toon de getallen op het scherm.
