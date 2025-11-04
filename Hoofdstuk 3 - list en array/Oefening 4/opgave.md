@@ -1,1 +1,1 @@
-# 
+# d.	Maak een lijst van getallen. Laat automatisch hier alle getallen van 278 t.e.m. 300 in steken. Overloop vervolgens deze lijst en tel deze getallen bij elkaar op.

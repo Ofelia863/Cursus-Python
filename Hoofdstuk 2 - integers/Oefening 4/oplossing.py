@@ -13,7 +13,7 @@ Prijs: 58.00 euro
 Aantal pizza's: 6
 Prijs: 72.50 euro'''
 
-aantal = input("Aantal pizza's: ")
+aantal = int(input("Aantal pizza's: "))
 
 prijs = 14.5
 

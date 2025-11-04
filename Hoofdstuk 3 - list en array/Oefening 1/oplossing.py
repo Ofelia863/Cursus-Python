@@ -1,6 +1,4 @@
-nummers = [1,2,3,4,5]
+getallen = [5,6,7,8,9]
 
-print(nummers)
-
-for nummer in nummers:
-    print(nummer)
+for getal in getallen:
+    print(getal)
