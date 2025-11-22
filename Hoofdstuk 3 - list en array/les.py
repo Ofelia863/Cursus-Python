@@ -12,10 +12,32 @@ getallen.append(int(input("Geef een getal: ")))'''
     getallen.append(getal)'''
 
 for i in range(3):
-    getallen.append(int(input("Geef een getal: ")))
+   getallen.append(int(input("Geef een getal: ")))
 
 som = 0
 for getal in getallen:
     som = som + getal
 
 print(som)
+
+
+
+letters = []
+
+letters.append("b")
+letters.append("c")
+letters.append("d")
+
+letters.insert(0,"a")
+letters.insert(2,"x")
+
+
+for letter in letters:
+    print(f'letter: {letter}')
+
+for positie in range(len(letters)):
+    letters[positie] = f'{letters[positie]}.'
+
+
+
+print(letters)
