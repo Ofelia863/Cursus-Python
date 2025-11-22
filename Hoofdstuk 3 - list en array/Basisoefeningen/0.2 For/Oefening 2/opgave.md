@@ -1,0 +1,1 @@
+# Maak een lijst met de namen Anna, Bert en Charlie en toon elk van deze namen apart op het scherm

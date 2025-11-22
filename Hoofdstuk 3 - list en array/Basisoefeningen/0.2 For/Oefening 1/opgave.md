@@ -1,0 +1,1 @@
+# Maak een lijst met de getallen 1, 2, 3, 4 en toon elk van deze getallen apart op het scherm

@@ -1,0 +1,1 @@
+# Maak een lijst met de getallen 3.0, 1.4, 5.6, 9.0 en toon elk van deze getallen apart op het scherm

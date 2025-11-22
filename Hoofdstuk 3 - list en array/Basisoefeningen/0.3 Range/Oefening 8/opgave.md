@@ -1,0 +1,1 @@
+# Vraag 3 keer aan de gebruiker een getal ("Getal: ") en toon deze getallen op het scherm
