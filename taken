@@ -1,0 +1,18 @@
+nummers = []
+
+nummers.append(2)
+nummers.append(5)
+nummers.append(9)
+nummers.append(11)
+nummers.append(23)
+
+print (nummers)
+
+derde = 0
+
+for nummer in nummers:
+    derde = numm
+
+
+
+
