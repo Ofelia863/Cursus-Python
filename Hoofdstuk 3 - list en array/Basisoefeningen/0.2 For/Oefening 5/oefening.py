@@ -1,3 +1,5 @@
+3.5, 1.2, 2.4, 9.0, 8.7
+
 getallen = []
 getallen.append(3.5)
 getallen.append(1.2)
