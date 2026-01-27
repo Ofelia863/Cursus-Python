@@ -1,3 +1,80 @@
+mijn_lijst = []
+
+# toevoegen
+mijn_lijst = [1, 2, 3]
+
+#achteraan toevoegen
+mijn_lijst.append(4)
+mijn_lijst.append(5)
+
+#toevoegen op een specifieke plaats, beginnend vanaf 0
+mijn_lijst.insert(0, -1)
+mijn_lijst.insert(0, -3)
+
+mijn_lijst.insert(1, -2)
+
+mijn_lijst.insert(0, -4)
+mijn_lijst.append(6)
+
+
+# afdrukken
+
+print(mijn_lijst)
+lengte = len(mijn_lijst)
+print(f'Mijn lijst is {lengte} plaatsen groot')
+
+for getal in mijn_lijst:
+    pass
+    # print(getal)
+
+for getal in mijn_lijst:
+    pass
+    # print(getal*2)
+
+for ax in mijn_lijst:
+    print(f'Getal: {ax}')
+
+for a in mijn_lijst:
+    a = 0
+
+for positie in range(len(mijn_lijst)):
+    # mijn_lijst[positie] = 0
+    mijn_lijst[positie] = mijn_lijst[positie] ** 2
+
+print(mijn_lijst)
+
+for keer in range(3):
+    pass
+    #print("Gedaan")
+
+for getal in range(20, -3, -2):
+    pass
+    #print(getal)
+
+
+getallen = [1, 2, 3, ..., 98, 99, 100]
+
+for getal in getallen:
+    Print = getallen.append(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #getallen = []
 
 '''getallen.append(int(input("Geef een getal: ")))
@@ -87,7 +164,7 @@ print(letters)
 
 
 
-letters = []
+'''letters = []
 
 letters.append("b")
 letters.append("c")
@@ -114,7 +191,7 @@ print(letters)
 =======
 for letter in letters:
     print(f'Letter: {letter}')
-print(letters)
+print(letters)'''
 
 
 

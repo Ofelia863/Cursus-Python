@@ -8,4 +8,8 @@ Kommagedeelte: 0.245
 Getal: 3.14
 Kommagedeelte: 0.14'''
 
-getal = int(input("Getal: "))
+getal = float(input("Getal: "))
+
+kommagedeelte = getal % 1
+
+print(kommagedeelte)

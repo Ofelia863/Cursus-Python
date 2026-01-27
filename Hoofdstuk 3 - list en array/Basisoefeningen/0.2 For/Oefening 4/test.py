@@ -8,4 +8,4 @@ from shared.test_helpers import test_output
 
 oefening_path = os.path.join(os.path.dirname(__file__), "oefening.py")
 
-test_output(oefening_path, "['Spaghetti', 'Frietjes', 'Soep']")
+test_output(oefening_path, "Spaghetti\nFrietjes\nSoep")
