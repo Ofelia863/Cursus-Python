@@ -1,0 +1,1 @@
+# Maak een programma die een getal aan een gebruiker vraagt, tot dit getal groter is dan 0. Toon vervolgens dit getal.

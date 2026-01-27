@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker twee kommagetallen. Als de deling van het ene door het andere getal kleiner is dan 8, dan toon je "Kleiner dan 8" op het scherm.

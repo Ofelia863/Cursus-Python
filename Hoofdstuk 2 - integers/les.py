@@ -1,4 +1,13 @@
-x = input("x: ")
+p = 100
+r = 0.06
+n = 12
+t = 7
+
+totaal = p * (1 + r/n)**(n*t)
+
+print(totaal)
+
+'''x = input("x: ")
 x = int(x)
 
 y = int(input("y: "))
@@ -16,4 +25,4 @@ vierkantswortel = x ** (1/2)
 rest = x % y
 
 print(gehele_deling)
-print(rest)
+print(rest)'''

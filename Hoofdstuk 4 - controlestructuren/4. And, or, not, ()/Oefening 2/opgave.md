@@ -1,0 +1,1 @@
+# Een pizzeria heeft een speciale korting: -20% op alle pizza's voor wie jonger is dan 18 of wie student is (maar niet ouder is 25 jaar). Bevraag de totaalprijs ("Totaal: "), de leeftijd ("Leeftijd: ") en of de persoon nog een student is ("Bent u nog student (ja/nee): "). Je mag ervan uitgaan dat de persoon de laatste vraag ofwel "ja" of "nee" antwoordt.

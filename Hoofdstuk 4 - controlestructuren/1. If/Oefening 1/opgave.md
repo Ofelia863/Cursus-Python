@@ -1,0 +1,1 @@
+# 1.	Een webshop rekent verzendkosten op basis van gewicht. Standaard levering: € 5 + € 1,50 per kg. Express levering: € 12 + € 0,80 per kg. Vraag aan de gebruiker hoeveel zijn pakketje weegt en toon welke levering het goedkoopste is ("Standaard levering" of "Express levering").

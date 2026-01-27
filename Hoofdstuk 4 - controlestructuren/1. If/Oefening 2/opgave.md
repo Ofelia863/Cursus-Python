@@ -1,0 +1,1 @@
+# 2.	Een bankrekening heeft een saldo. Bij een saldo kleiner dan 0 wordt een waarschuwing gegeven ("Negatief saldo"). Bij een saldo groter dan 10.000 krijgt de klant een VIP-melding ("VIP-klant"). Vraag aan de gebruiker het saldo en laat een melding verschijnen als deze van toepassing is.

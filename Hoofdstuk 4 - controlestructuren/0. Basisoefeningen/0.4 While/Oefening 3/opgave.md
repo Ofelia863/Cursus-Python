@@ -1,0 +1,1 @@
+# Maak een programma die een even getal aan een gebruiker vraagt tot dit wordt ingegeven. Toon vervolgens het kwadraat van dit getal.

@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een geheel getal. Als het getal groter is dan 10, toon je dit getal nogmaals op het scherm.

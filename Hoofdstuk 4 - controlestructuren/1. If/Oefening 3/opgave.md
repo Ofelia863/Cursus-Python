@@ -1,0 +1,1 @@
+# 3.	Een gebruiker wil weten of een getal een priemgetal is. Maak een programma dat aan de gebruiker een getal vraagt en vervolgens zegt of dit wel of geen priemgetal is.

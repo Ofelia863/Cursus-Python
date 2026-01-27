@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een kommagetal. Als het kommagetal kleiner is dan 10, toon je "Kleiner dan 10". Anders toon je "Groter dan 10".

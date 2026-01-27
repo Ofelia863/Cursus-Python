@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een geheel getal. Als het getal groter of gelijk aan 0, toon je "Positief" op het scherm. Anders toon je "Negatief" op het scherm.

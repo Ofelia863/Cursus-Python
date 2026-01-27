@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een kommagetal. Als het kommagetal kleiner is dan 0, dan toon je "Negatief" op het scherm.

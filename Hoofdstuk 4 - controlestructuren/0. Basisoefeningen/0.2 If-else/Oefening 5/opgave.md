@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker twee gehele getallen. Als het eerste getal groter is dan het tweede, toon je "Eerste getal is groter". Anders toon je "Tweede getal is groter of gelijk aan".

@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een geheel getal. Als het getal gelijk is aan 0, dan toon op het scherm "Je hebt 0 ingegeven". Anders toon je "Je hebt geen 0 ingegeven".

@@ -1,0 +1,1 @@
+# Maak een programma die bepaalt of een jaar een schrikkeljaar is. Een schrikkeljaar is een jaar waarbij het jaartal deelbaar is door 4 maar niet door 100.  Maar als het deelbaar is door 400, is het wel terug een schrikkeljaar.

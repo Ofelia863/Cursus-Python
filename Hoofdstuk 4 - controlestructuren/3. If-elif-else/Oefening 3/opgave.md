@@ -1,0 +1,1 @@
+# Maak een programma waarbij je de naam van de dag van een datum berekend. Hiervoor geef je het dagnummer van de eerste maandag van de maand op (bv. "5" voor januari 2026) en het dagnummer van welke dag je de dagnaam wil weten. Bijvoorbeeld: "13" > "Dinsdag", "22 > Donderdag", "1" > "Donderdag".

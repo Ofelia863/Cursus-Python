@@ -1,0 +1,1 @@
+# Vraag aan de gebruiker een kommagetal. Als het getal niet kleiner is dan 0, schrijf je "kommagetal is een niet-strikt, positief getal".

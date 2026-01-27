@@ -1,0 +1,1 @@
+# 2.	Bij de verzekeringsmaatschappij heb je 2 tarieven m.b.t. de jaarlijkse verzekering van jouw brommer. Ben je minder dan 20 jaar, betaal je 800 euro. Indien je 20 jaar of ouder bent, betaal je slechts 350 euro. Maak een programma zodat een gebruiker te weten kan komen hoeveel hij jaarlijkse zal moeten betalen.

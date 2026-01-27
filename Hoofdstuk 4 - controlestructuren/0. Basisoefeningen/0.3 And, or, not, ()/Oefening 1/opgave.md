@@ -1,0 +1,1 @@
+# 1.	Vraag aan de gebruiker een geheel getal. Als het getal een positief (groter dan 0) veelvoud is van 2 (rest na deling door 2 is 0), schrijf je "Positief veelvoud van 2".
